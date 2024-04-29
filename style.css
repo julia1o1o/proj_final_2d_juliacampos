@@ -1,0 +1,18 @@
+body { background-color: rgb(181, 214, 207);
+}
+
+#ima1 {  
+        border-style: double;
+        border-color: darkslategray;
+        border-width: 3px;
+        padding-left: 10%;
+        padding-right: 10%;
+}
+
+h1 { text-align: center;
+}
+
+h2 { border-style: double;
+    border-color: darkslategrey;
+    border-width: 3px;
+}
